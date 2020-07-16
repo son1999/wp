@@ -1,0 +1,21 @@
+@media (min-width: 992px) {
+    nav.fixed-top:not(.sticky-top):not(.show-menu) .bg-wrap {
+        opacity: 0 !important;
+    }
+}
+
+#action-text-btn-2 .bg-wrap {
+	background: #1a213e;
+}
+#action-text-btn-2 .bg {
+	background-size: cover;
+	opacity: 0.1;
+	background-position: center bottom;
+	background-image: url('../images/background/anhbg034.jpg');
+}#benefits-3col-3 .bg-wrap {
+}
+#subscribe-block .bg-wrap {
+    background-color: #f4f5f6;
+}#footer-logo-text-4 .bg-wrap {
+    background: #1a213e;
+}

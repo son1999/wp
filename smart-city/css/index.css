@@ -1,0 +1,101 @@
+@media (min-width: 992px) {
+    nav.fixed-top:not(.sticky-top):not(.show-menu) .bg-wrap {
+        opacity: 0 !important;
+    }
+}
+#action-text-4col .bg-wrap {
+	background: #ffac00;
+}
+#header-text-img-9 .bg-wrap {}
+#header-text-img-9 .bg {
+	background-size: cover;
+	background-position: center center;
+	background-image: url('../images/15889/bannervinhomessmartcitymin.jpg');
+}
+#action-text-4col--0 .bg-wrap {
+	background: #ffac00;
+}
+#action-img-text-btn-4 .bg-wrap {
+	background: linear-gradient(135deg, #13a64f, #25a9ad);
+}#text-1col .bg {
+	background-size: contain;
+    background-image: url('../images/887/bgs45.png');
+    background-repeat: no-repeat;
+    background-position: ;
+    opacity: 0.4;
+}
+#text-3col .bg {
+    background-image: url('../images/887/bgs46.png');
+    background-repeat: no-repeat;
+    background-position: right center;
+    opacity: 1;
+}
+
+#text-3col .bg-wrap {
+	background: linear-gradient(135deg, #13a64f, #25a9ad);}#action-img-text-btn-5 .bg-wrap{
+    background: #f07e00;
+}#benefits-3col-3 .bg-wrap {
+}
+
+#benefits-3col-3 .bg {
+	opacity: 0.4;
+	background-position: right top;
+	background-repeat: No-repeat;
+	background-size: contain;
+	background-image: url('../images/887/bgs46.png');
+}
+#desc-text-img-img-2 .bg-wrap {
+	background: #10316b;
+}
+#desc-text-img-img-2 .bg {
+	opacity: 0.5;
+	background-size: 100% auto;
+	background-repeat: No-repeat;
+	background-position: center bottom;
+	background-image: url('../images/15889/bgat_ss5min.png');
+}#benefits-3col-10 .bg {
+    background-image: url('../images/15889/vinhomessmartcity02min.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 0.1;
+}
+
+#benefits-3col-10 .bg-wrap {
+	background: #06295f;
+}#subscribe-field-4 .bg-wrap {
+    background: linear-gradient(135deg, #13a64f, #25a9ad);
+}
+#media-contact-iframe .bg-wrap {
+	background: #f8f8f8;
+}#tool-back-to-top{
+    position: fixed;
+    right: 130px;
+    bottom: 50px;
+    z-index: 1001190 !important;
+}#tool-back-to-top{
+    position: fixed;
+    right: 130px;
+    bottom: 50px;
+    z-index: 1001190 !important;
+}
+#contact-center-form .bg-wrap {
+	background: #01001b;
+}
+#contact-center-form .bg {
+	opacity: 0.5;
+	background-repeat: No-repeat;
+	background-size: 100% auto;
+	background-position: center bottom;
+	background-image: url('../images/887/bgat_ss5.png');
+}
+#popup-form .bg-wrap {
+	background: linear-gradient(135deg, #f04b03, #ffc500);
+}
+#popup-halfbg-form .bg-wrap {
+	background: #000f2a;
+}
+
+#footer-logo-text-2 .bg-wrap {
+	background: #02001a;
+}
